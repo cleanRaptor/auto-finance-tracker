@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Finance Tracker</title>
       </Head>
-      <h1 className="text-3xl font-bold">Personal Finance Tracker</h1>
+      <h1 className="text-3xl font-bold">Merger Test Added</h1>
       <IncomeList />
       <ExpenseList />
     </div>
