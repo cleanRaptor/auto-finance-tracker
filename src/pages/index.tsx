@@ -9,6 +9,7 @@ export default function Home() {
         <title>Finance Tracker</title>
       </Head>
       <h1 className="text-3xl font-bold">Personal Finance Tracker</h1>
+        <h1 className="text-3xl font-bold">Changes made on main</h1>
       <IncomeList />
       <ExpenseList />
     </div>
